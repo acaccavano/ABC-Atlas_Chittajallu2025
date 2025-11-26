@@ -1,0 +1,1 @@
+Jupyter notebooks to access Allen Institute ABC Atlas. Adapted from example notebooks provided at: https://alleninstitute.github.io/abc_atlas_access/intro.html. For manuscript Chittajallu et al. eLife 2025. doi: 10.7554/eLife.106062.2
